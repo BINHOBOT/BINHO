@@ -3,7 +3,7 @@ const help = (prefix) => {
 
 𝗕𝗢𝗧 𝗙𝗗𝗣
 𝗜𝗡𝗙𝗢𝗦:
-                    🌹〘𝗙𝗢𝗗𝗔-𝗦𝗘〙🌹
+        🌹〘𝗙𝗢𝗗𝗔-𝗦𝗘〙🌹
 ╔ *O BOT SE ENCONTRA: ON-LINE*
 ╠ ▬▬▬▬▬▬▬【💎】▬▬▬▬▬▬▬
 ║*DONO*: BINHO
