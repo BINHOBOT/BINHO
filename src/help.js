@@ -10,7 +10,7 @@ const help = (prefix) => {
 ╠ ▬▬▬▬▬▬▬【💎】▬▬▬▬▬▬▬
 ║*PREFIXO*:[ / ]
 ╠ ▬▬▬▬▬▬▬【💎】▬▬▬▬▬▬▬
-║*WHATSAPP*: wa.me/5575988746593
+║*WHATSAPP*: wa.me/5574988746593
 ╠ ▬▬▬▬▬▬▬【💎】▬▬▬▬▬▬▬
 ║*MADA PLAQUINHA NO PV GASOSA😔*
 ╠ ▬▬▬▬▬▬▬【💎】▬▬▬▬▬▬▬
