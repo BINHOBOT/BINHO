@@ -277,7 +277,7 @@ async function starts() {
 
 			mess = {
 					wait: '❬❗❭ Espere',
-					success: '️❬ ✔ ❭ Sucesso 🖤',
+					success: '️❬ ✔ ❭ Sucesso 🤠🤝🏻',
 					levelon: '❬ ✔ ❭ *leveling* *ativado*',
 					leveloff: ' ❬ X ❭  *leveling* *desativado*',
 					levelnoton: '❬ X ❭ *leveling não ativado*',
@@ -433,7 +433,7 @@ if (text.includes("placa"))
 		client.updatePresence(from, Presence.composing)
 		if (messagesC.includes("#izinadmin")) return reply("#izinadmin diterima")
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`tchau racista ${sender.split("@")[0]} Seu ban chegando em 5 segundos:🤡`)
+		reply(`tchau racista ${sender.split("@")[0]} Seu ban chegando em 5 segundos:🥶`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 5000)
@@ -521,7 +521,7 @@ if (text.includes("placa"))
 		}, 1000)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("5 segundo KKKKKKKK tchau otário 😔🤙")
+			reply("5 segundo KKKKKKKK tchau otário 🤠🤙")
 		}, 0)
 	}
 	
@@ -558,10 +558,10 @@ if (text.includes("placa"))
 		}, 0)
 	}
 	
-	        if (messagesC.includes("pq vc e preto")){
+	        if (messagesC.includes("Binho é feio")){
 		if (!isGroup) return
 		if (!isAntiRacismo) return
-		if (isGroupAdmins) return reply('cara, nao fale essas coisas, é errado, mas vc e admin n irei te banir')
+		if (isGroupAdmins) return reply('cara, nao fale essas coisas com meu criador não 😔 mas vc e admin n irei te banir')
 		client.updatePresence(from, Presence.composing)
 		if (messagesC.includes("#izinadmin")) return reply("#izinadmin diterima")
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
@@ -587,7 +587,7 @@ if (text.includes("placa"))
 		}, 1000)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("5 segundo KKKKKKKK tchau racista arrombado 😤🖕")
+			reply("te dei permissão pra vc falar assim com meu dono?😤🖕da adeus ao grupo otário😘👋")
 		}, 0)
 	}
 	
@@ -659,7 +659,7 @@ if (text.includes("placa"))
 	
 	if (messagesC.includes("fdp")){
 			client.updatePresence(from, Presence.composing)
-			reply("teu pai que te botou no mundo 🙄")
+			reply("teu pai que te botou no mundo sem querer 🙄")
 				}
 	
 	if (messagesC.includes("bosta")){
@@ -674,7 +674,7 @@ if (text.includes("placa"))
 	
 		if (messagesC.includes("tmnc")){
 			client.updatePresence(from, Presence.composing)
-			reply("vai vc, tu ja me disse q é mo bom")
+			reply("vai vc prostituta arrombada do cu cheio de perebas 🙄")
 	}
 	
 		if (messagesC.includes("vsfd")){
@@ -684,12 +684,12 @@ if (text.includes("placa"))
 	
 		if (messagesC.includes("binho")){
 			client.updatePresence(from, Presence.composing)
-			reply("meu criador ai 🥰👌🏻Binho gasoso manda salve 😳🙏")
+			reply("meu criador aí🥰👌🏻Binho gasoso😈 da a buceta pra mim o cu e fumo o back todo ksksk")
 	}
 	
 		if (messagesC.includes("bot")){
 			client.updatePresence(from, Presence.composing)
-			reply("roi, falando de mim?🥺me chama de bot e deixa eu te botar?😦")
+			reply("olha eu aqui ta cego vadia?")
 	}
 	
 			if (messagesC.includes("tobi")){
